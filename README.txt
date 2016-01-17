@@ -19,4 +19,4 @@ The following steps were followed while making the program:
    using the hash of the url as a key.
 
 7. A separate dictionary is also maintained for keeping the timestamps
-   of all the urls.
+   of all the urls. 
